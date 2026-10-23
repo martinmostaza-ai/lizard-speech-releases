@@ -1,3 +1,3 @@
-# Lizard Speech - releases
+Lizard Speech releases
 
-Instaladores y actualizaciones automaticas de Lizard Speech. Solo binarios, sin codigo.
+Última de Android: android-v0.2.0 (2026-10-23T01:31:42Z)
